@@ -1,0 +1,25 @@
+<!--pages/my/my.wxml-->
+<view class="container">
+  <view class="userinfo">
+    <button wx:if="{{!hasUserInfo && canIUse}}" open-type="getUserInfo" bindgetuserinfo="getUserInfo"> 获取头像昵称 </button>
+    <block wx:else>
+      <image bindtap="bindViewTap" class="userinfo-avatar" src="{{userInfo.avatarUrl}}" background-size="cover"></image>
+      <text class="userinfo-nickname">{{userInfo.nickName}}</text>
+    </block>
+  </view>
+  <view class='box' bindtap='result'>
+     <view class='title'>我测试的结果</view>
+     <view class='list'>
+        <view class="left">
+           <image src="../images/icon.png" mode="widthFix"></image>              </view>
+        <view class="right">
+            <view class='h3'> 九型人格测试 </view>
+            <view class='text'>最佳类型：理智型 </view>
+        </view>
+     </view>
+  </view>
+  <view class='box' style='background: #f2f2f2;'>
+     <view class='title'>您没有测试~</view>
+  </view>
+</view>
+

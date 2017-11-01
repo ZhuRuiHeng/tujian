@@ -1,0 +1,54 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/my/my",
+    "pages/text/text",
+    "pages/test/test",
+    "pages/result/result",
+    "pages/inform/inform",
+    "pages/info/info",
+    "pages/in1/in1",
+    "pages/in2/in2",
+    "pages/in3/in3",
+    "pages/in4/in4",
+    "pages/in5/in5",
+    "pages/in6/in6",
+    "pages/in7/in7",
+    "pages/in8/in8",
+    "pages/in9/in9",
+    "pages/charts/scrollline/scrollline",
+    "pages/charts/radar/radar",
+    "pages/charts/line/line",
+    "pages/charts/column/column",
+    "pages/charts/pie/pie",
+    "pages/charts/ring/ring",
+    "pages/charts/area/area"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "backgroundColor": "#fff",
+    "color": "#515151",
+    "selectedColor": "#3eb94e",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "类型",
+        "iconPath": "pages/images/icons.png",
+        "selectedIconPath": "pages/images/icon.png"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "text": "我的",
+        "iconPath": "pages/images/mya.png",
+        "selectedIconPath": "pages/images/my.png"
+      }
+    ]
+  },
+  "debug": false
+}

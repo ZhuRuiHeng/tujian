@@ -1,0 +1,168 @@
+<!--pages/in8/in8.wxml-->
+<view class="container">
+	<view class="type-image" style="background-color: #CAA5C7;">
+		<image src="../images/8.png" style="width: 130px; height: 130px;"></image>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			1.核心价值观
+		</text>
+		<text>
+			1.核心价值观
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				这世界充满挑战，我要做一个自强不息的人，运用我强大的自信和抑制力战胜环境，贡献社会，助强扶弱，主持正义，保持公平。
+			</text>
+			<text>
+				这世界充满挑战，我要做一个自强不息的人，运用我强大的自信和抑制力战胜环境，贡献社会，助强扶弱，主持正义，保持公平。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			2.注意力焦点：
+		</text>
+		<text>
+			2.注意力焦点：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				什么是公平的？谁还有异议？
+			</text>
+			<text>
+				什么是公平的？谁还有异议？
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			3.情绪反应：
+		</text>
+		<text>
+			3.情绪反应：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				事情说了不算，决定后还有异议时会有情绪，愤怒，好胜。
+			</text>
+			<text>
+				事情说了不算，决定后还有异议时会有情绪，愤怒，好胜。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			4.行为习惯：
+		</text>
+		<text>
+			4.行为习惯：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				经常关注：我们就这样定了，这事得我说了算。
+			</text>
+			<text>
+				经常关注：我们就这样定了，这事得我说了算。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			5.气质形态：
+		</text>
+		<text>
+			5.气质形态：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				气宇不凡，目光淡定，有大将之风，具有霸气，有时粗豪鲁莽，大情大义，有压迫感，声音嘹亮，不拘小节，昂首阔步。
+			</text>
+			<text>
+				气宇不凡，目光淡定，有大将之风，具有霸气，有时粗豪鲁莽，大情大义，有压迫感，声音嘹亮，不拘小节，昂首阔步。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			6.行为动机：
+		</text>
+		<text>
+			6.行为动机：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				渴望在社会上与人群中有作为，并担当他们的领导者，个性冲动，自信，有正义感，喜欢替他人作主和发号施令。
+			</text>
+			<text>
+				渴望在社会上与人群中有作为，并担当他们的领导者，个性冲动，自信，有正义感，喜欢替他人作主和发号施令。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			7.性格倾向：
+		</text>
+		<text>
+			7.性格倾向：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				外向、主动、乐观、冲动、专制、有正义感；关注权力、独断，并且控制空间和领域；充满活力，讨厌虚伪，喜欢危险和冒险的刺激感；愤怒爆发直接、面对面、硬碰硬；很难听从别人的意见；相信“强权就是公理”，别人会觉得专横霸道；喜欢被人尊重而不是被人喜爱；通常会支持比较弱势或不利的一方；会保护、支持自己的朋友、家人和下属；喜欢控制大局和授权给别人的乐趣，但却不喜欢被控制；有坚强的意志力，相信自己能战胜一切挑战和困境，而会有突破；不喜欢求人，觉得求人不如求自己，所以不停地增值自己的能力；对家人粗心大意，缺乏温柔及很难站在对方的立场来思考。是一个负责任的好丈夫、好妻子；是一个坚强、自信、果断和会马上采取行动去解决问题的人。
+			</text>
+			<text>
+				外向、主动、乐观、冲动、专制、有正义感；关注权力、独断，并且控制空间和领域；充满活力，讨厌虚伪，喜欢危险和冒险的刺激感；愤怒爆发直接、面对面、硬碰硬；很难听从别人的意见；相信“强权就是公理”，别人会觉得专横霸道；喜欢被人尊重而不是被人喜爱；通常会支持比较弱势或不利的一方；会保护、支持自己的朋友、家人和下属；喜欢控制大局和授权给别人的乐趣，但却不喜欢被控制；有坚强的意志力，相信自己能战胜一切挑战和困境，而会有突破；不喜欢求人，觉得求人不如求自己，所以不停地增值自己的能力；对家人粗心大意，缺乏温柔及很难站在对方的立场来思考。是一个负责任的好丈夫、好妻子；是一个坚强、自信、果断和会马上采取行动去解决问题的人。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			8.精力浪费处：
+		</text>
+		<text>
+			8.精力浪费处：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				充沛的精力，渴求坚强，解决问题，奋力地和生活所发生的事交战，他们舍不得浪费精力，反而常常是耗尽精力，弄坏身体而仍然不知休闲、懒散。
+			</text>
+			<text>
+				充沛的精力，渴求坚强，解决问题，奋力地和生活所发生的事交战，他们舍不得浪费精力，反而常常是耗尽精力，弄坏身体而仍然不知休闲、懒散。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			9.早年认同--性格形成的可能性原因：
+		</text>
+		<text>
+			9.早年认同--性格形成的可能性原因：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				希望获得爱与关怀却得不到，却学到必须强烈坚持自己的意见，才会得到大人的反应，因此开始发展自己的能力，并勇于发表自己的看法，而在能力的表现上也渐渐得到大人的肯定而更强化了发展能力的需求，进而变成只相信自己的能力，所以不求人。
+			</text>
+			<text>
+				希望获得爱与关怀却得不到，却学到必须强烈坚持自己的意见，才会得到大人的反应，因此开始发展自己的能力，并勇于发表自己的看法，而在能力的表现上也渐渐得到大人的肯定而更强化了发展能力的需求，进而变成只相信自己的能力，所以不求人。
+			</text>
+		</text>
+	</view>
+</view>

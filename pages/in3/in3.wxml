@@ -1,0 +1,168 @@
+<!--pages/in3/in3.wxml-->
+<view class="container">
+	<view class="type-image" style="background-color: #F4E161;">
+		<image src="../images/3.png" style="width: 130px; height: 130px;"></image>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			1.核心价值观
+		</text>
+		<text>
+			1.核心价值观
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				我必须努力做个成功的人，名誉、地位、声望与财富对我确实很重要。
+			</text>
+			<text>
+				我必须努力做个成功的人，名誉、地位、声望与财富对我确实很重要。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			2.注意力焦点：
+		</text>
+		<text>
+			2.注意力焦点：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				我如何才能达成目标？
+			</text>
+			<text>
+				我如何才能达成目标？
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			3.情绪反应：
+		</text>
+		<text>
+			3.情绪反应：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				订立的目标无法实现时会有情绪，挫败，自欺。
+			</text>
+			<text>
+				订立的目标无法实现时会有情绪，挫败，自欺。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			4.行为习惯：
+		</text>
+		<text>
+			4.行为习惯：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				经常关注我可以做些什么能帮助成功？
+			</text>
+			<text>
+				经常关注我可以做些什么能帮助成功？
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			5.气质形态：
+		</text>
+		<text>
+			5.气质形态：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				非常精灵，醒目，衣着讲究，搭配整齐，仪表出众，非常注意形象。
+			</text>
+			<text>
+				非常精灵，醒目，衣着讲究，搭配整齐，仪表出众，非常注意形象。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			6.行为动机：
+		</text>
+		<text>
+			6.行为动机：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				渴望事业有成，以目标为主导，重视自我形象，希望被肯定、受人尊敬和羡慕。
+			</text>
+			<text>
+				渴望事业有成，以目标为主导，重视自我形象，希望被肯定、受人尊敬和羡慕。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			7.性格倾向：
+		</text>
+		<text>
+			7.性格倾向：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				外向、主动、擅于交际；关注任务（包括休息时间）；相信世上无难事，只怕有心人；别人会觉得自己是一很有野心的人；执行、做、争先；注意力集中在结果，而非意义；基于成绩，得到认可和接受；疏忽自己的感受；喜欢与人竞争，借由超越他人来建立自己的优越感；坚持自己的目标，达不到目标就恼火；效率高，有时会为了求效率而牺牲完美，走捷径；精力充沛、热爱工作、奋力追求成功，以获得地位和赞赏；为了事业成功、声望、财富，有时牺牲情感、婚姻、家庭或朋友；是一个受人欣赏、有能力、出众的人。
+			</text>
+			<text>
+				外向、主动、擅于交际；关注任务（包括休息时间）；相信世上无难事，只怕有心人；别人会觉得自己是一很有野心的人；执行、做、争先；注意力集中在结果，而非意义；基于成绩，得到认可和接受；疏忽自己的感受；喜欢与人竞争，借由超越他人来建立自己的优越感；坚持自己的目标，达不到目标就恼火；效率高，有时会为了求效率而牺牲完美，走捷径；精力充沛、热爱工作、奋力追求成功，以获得地位和赞赏；为了事业成功、声望、财富，有时牺牲情感、婚姻、家庭或朋友；是一个受人欣赏、有能力、出众的人。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			8.精力浪费处：
+		</text>
+		<text>
+			8.精力浪费处：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				他们的精力完全浪费在配合别人，并花时间做秀、自我宣传上，所以夜深人静时，常有一份空虚感袭来。
+			</text>
+			<text>
+				他们的精力完全浪费在配合别人，并花时间做秀、自我宣传上，所以夜深人静时，常有一份空虚感袭来。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			9.早年认同--性格形成的可能性原因：
+		</text>
+		<text>
+			9.早年认同--性格形成的可能性原因：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				他们的早年身边必定有非常疼爱他们，并常给他们鼓励和赞美的长辈，因此他们从小就相信自己优秀，而为得到这份被夸赞的满足，他们也非常努力去争取。
+			</text>
+			<text>
+				他们的早年身边必定有非常疼爱他们，并常给他们鼓励和赞美的长辈，因此他们从小就相信自己优秀，而为得到这份被夸赞的满足，他们也非常努力去争取。
+			</text>
+		</text>
+	</view>
+</view>

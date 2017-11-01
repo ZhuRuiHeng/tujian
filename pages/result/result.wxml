@@ -1,0 +1,36 @@
+<!--pages/result/result.wxml-->
+<view class='container'>
+    <view class='chart'>
+        <view bindtap="gotoPage" data-page="line" class="mt20 list-item">Line</view>
+        <view bindtap="gotoPage" data-page="scrollline" class="mt20 list-item">ScrollLine</view>
+        <view bindtap="gotoPage" data-page="column" class="list-item">Column</view>
+        <view bindtap="gotoPage" data-page="pie" class="list-item">Pie</view>
+        <view bindtap="gotoPage" data-page="ring" class="list-item">Ring</view>
+        <view bindtap="gotoPage" data-page="area" class="list-item">Area</view>
+        <view bindtap="gotoPage" data-page="radar" class="list-item">Radar</view>
+    </view>
+    <view class='tab'>
+        <view wx:for="{{tab}}"  class="{{item.active?'active':''}}"
+        data-index="{{item.icon}}" 
+              data-active="{{item.active}}" bindetap="keyword"
+              > 
+              {{item.title}}
+        </view>
+    </view>
+    <view class="content">
+        <view class='left'>
+            <view class='top'>助人</view>
+            <view class='little'>核心人格</view>
+        </view>
+        <view class='right'>
+            <view class='top'>助人 成就 领袖</view>
+            <view class='little'>主要人格</view>
+        </view>
+    </view>
+    <view class='icons'>
+        <navigator url="../in{{item.icon}}/in{{item.icon}}" class="typeall" wx:for="{{typeList}}" style='background:{{item.color}}' data-inx="{{item.icon}}">
+            <view class='num'>{{item.icon}}</view>
+            <view class='neirong'>{{item.title}}</view>
+        </navigator>
+    </view>
+</view>

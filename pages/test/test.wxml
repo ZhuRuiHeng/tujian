@@ -1,0 +1,7 @@
+<!--pages/test/test.wxml-->
+<view class='container'>
+    <view class='flex'>
+        <view class='color'>什么什么什么</view>
+        <view class='color'>什么什么什么什么什么什么</view>
+    </view>
+</view>

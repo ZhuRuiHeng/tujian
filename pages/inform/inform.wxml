@@ -1,0 +1,10 @@
+<!--pages/inform/inform.wxml-->
+<view class='container'>
+    <view class='header'>
+        <image src="../images/icon.png" mode="widthFix"></image>
+    </view>
+    <view class='list'>
+        <view class='title'>ilfijrger</view>
+        <view class='text'>fghrer</view>
+    </view>
+</view>

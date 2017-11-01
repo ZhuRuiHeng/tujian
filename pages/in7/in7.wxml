@@ -1,0 +1,168 @@
+<!--pages/in7/in7.wxml-->
+<view class="container">
+	<view class="type-image" style="background-color: #EEB878;">
+		<image src="../images/7.png" style="width: 130px; height: 130px;"></image>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			1.核心价值观
+		</text>
+		<text>
+			1.核心价值观
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				我觉得这世界充满刺激的事物和体验，人生的目的在于快乐，而“刺激”更是我做事的动力，追求开心，快乐，新鲜，刺激，好玩。
+			</text>
+			<text>
+				我觉得这世界充满刺激的事物和体验，人生的目的在于快乐，而“刺激”更是我做事的动力，追求开心，快乐，新鲜，刺激，好玩。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			2.注意力焦点：
+		</text>
+		<text>
+			2.注意力焦点：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				我如何才能寻求开心、快乐？
+			</text>
+			<text>
+				我如何才能寻求开心、快乐？
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			3.情绪反应：
+		</text>
+		<text>
+			3.情绪反应：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				时间及空间受到限制时会有情绪，快乐，贪多。
+			</text>
+			<text>
+				时间及空间受到限制时会有情绪，快乐，贪多。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			4.行为习惯：
+		</text>
+		<text>
+			4.行为习惯：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				经常关注我们可以选择什么？能否有更多选择？
+			</text>
+			<text>
+				经常关注我们可以选择什么？能否有更多选择？
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			5.气质形态：
+		</text>
+		<text>
+			5.气质形态：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				活力充沛，神采飞扬，笑容亲切，容易为大家接受，没有压迫感的个性令人际关系保持和谐。
+			</text>
+			<text>
+				活力充沛，神采飞扬，笑容亲切，容易为大家接受，没有压迫感的个性令人际关系保持和谐。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			6.行为动机：
+		</text>
+		<text>
+			6.行为动机：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				外向主动，活泼开朗，精力充沛，兴趣广泛，时常想办法去满足自己想要得，爱而怕承诺，贪玩而怕作承诺，渴望拥有更多，倾向逃避烦恼，痛苦和焦虑。
+			</text>
+			<text>
+				外向主动，活泼开朗，精力充沛，兴趣广泛，时常想办法去满足自己想要得，爱而怕承诺，贪玩而怕作承诺，渴望拥有更多，倾向逃避烦恼，痛苦和焦虑。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			7.性格倾向：
+		</text>
+		<text>
+			7.性格倾向：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				外向、主动、乐观、贪玩；关注什么是未来可能的；乐于探索，多种选择；不喜欢接受规范，不想被约束；对有兴趣的事很入迷；不善于处理繁琐和细节的任务；贪图经历和享受，经历比成功更重要；头脑灵活，变通快，多计，勇于尝试，富有冒险精神；总是放任自己，喜欢我行我素，认为：只要我喜欢，有什么不可以。讨厌无聊，喜欢尽可能忙碌，认识很多朋友，每天活动都排得满满的；喜欢刺激和紧张的关系，而不喜欢稳定和依赖的关系；很少用心去聆听别人的感受，所以很难了解别人的内心感受；喜欢上餐馆、娱乐、旅行或同朋友谈天说地的美好享受；是一个快乐、热心、思想正面的人。
+			</text>
+			<text>
+				外向、主动、乐观、贪玩；关注什么是未来可能的；乐于探索，多种选择；不喜欢接受规范，不想被约束；对有兴趣的事很入迷；不善于处理繁琐和细节的任务；贪图经历和享受，经历比成功更重要；头脑灵活，变通快，多计，勇于尝试，富有冒险精神；总是放任自己，喜欢我行我素，认为：只要我喜欢，有什么不可以。讨厌无聊，喜欢尽可能忙碌，认识很多朋友，每天活动都排得满满的；喜欢刺激和紧张的关系，而不喜欢稳定和依赖的关系；很少用心去聆听别人的感受，所以很难了解别人的内心感受；喜欢上餐馆、娱乐、旅行或同朋友谈天说地的美好享受；是一个快乐、热心、思想正面的人。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			8.精力浪费处：
+		</text>
+		<text>
+			8.精力浪费处：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				他们对有人邀约，提供快乐、口欲及享乐的事，往往是来者不拒，甚至已经筋疲力尽时，居然能立刻重燃热情，所以他们的时间、体力和精力就这样做无聊地浪费，没有时间和精力去做有目标、有计划的行动，为社会造福。
+			</text>
+			<text>
+				他们对有人邀约，提供快乐、口欲及享乐的事，往往是来者不拒，甚至已经筋疲力尽时，居然能立刻重燃热情，所以他们的时间、体力和精力就这样做无聊地浪费，没有时间和精力去做有目标、有计划的行动，为社会造福。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			9.早年认同--性格形成的可能性原因：
+		</text>
+		<text>
+			9.早年认同--性格形成的可能性原因：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				可能在小时候曾经拥有最快乐、最安逸的生活，享受过甜美愉悦的日子，却因为某种原因，家中突然改变状况，使他们从幸福的美梦中敲醒，觉得挫折、沮丧，所以他们害怕再失去快乐，只要抓住快乐就不放，变成最会享受和拥有的人。
+			</text>
+			<text>
+				可能在小时候曾经拥有最快乐、最安逸的生活，享受过甜美愉悦的日子，却因为某种原因，家中突然改变状况，使他们从幸福的美梦中敲醒，觉得挫折、沮丧，所以他们害怕再失去快乐，只要抓住快乐就不放，变成最会享受和拥有的人。
+			</text>
+		</text>
+	</view>
+</view>

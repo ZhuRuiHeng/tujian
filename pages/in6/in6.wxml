@@ -1,0 +1,168 @@
+<!--pages/in6/in6.wxml-->
+<view class="container">
+	<view class="type-image" style="background-color: #C49F6B;">
+		<image src="../images/6.png" style="width: 130px; height: 130px;"></image>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			1.核心价值观
+		</text>
+		<text>
+			1.核心价值观
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				这是一个危险的世界，我要步步为营，防范被人利用和陷害，时时担心不安全。
+			</text>
+			<text>
+				这是一个危险的世界，我要步步为营，防范被人利用和陷害，时时担心不安全。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			2.注意力焦点：
+		</text>
+		<text>
+			2.注意力焦点：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				我如何才能避免危机？化解风险？
+			</text>
+			<text>
+				我如何才能避免危机？化解风险？
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			3.情绪反应：
+		</text>
+		<text>
+			3.情绪反应：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				潜在的隐患无人重视时会有情绪 惊慌，焦虑。
+			</text>
+			<text>
+				潜在的隐患无人重视时会有情绪 惊慌，焦虑。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			4.行为习惯：
+		</text>
+		<text>
+			4.行为习惯：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				经常关注什么可能的因素还没有考虑到？什么风险还没有规避掉？
+			</text>
+			<text>
+				经常关注什么可能的因素还没有考虑到？什么风险还没有规避掉？
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			5.气质形态：
+		</text>
+		<text>
+			5.气质形态：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				拥有警觉性高的眼神，去监视周围环境的变化，喜欢提出质疑，眼神里常有焦虑和不安的表现。
+			</text>
+			<text>
+				拥有警觉性高的眼神，去监视周围环境的变化，喜欢提出质疑，眼神里常有焦虑和不安的表现。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			6.行为动机：
+		</text>
+		<text>
+			6.行为动机：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				渴望受到保护和关怀，为人忠心耿耿，但多疑多虑，怕出差错，怕生是非，怕自己力不从心，怕人虚伪，怕事与愿违。
+			</text>
+			<text>
+				渴望受到保护和关怀，为人忠心耿耿，但多疑多虑，怕出差错，怕生是非，怕自己力不从心，怕人虚伪，怕事与愿违。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			7.性格倾向：
+		</text>
+		<text>
+			7.性格倾向：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				内向、主动、保守、忠诚；关注潜在的伤害、危险、威胁；积极想像：放大危险、灾害；质疑并反向思维；延迟是因为担心成果不安全；不会轻易相信别人，但内心深处希望得到别人欣赏和肯定；经常犹豫不决，对事情通常想的太认真，很在意配偶及伙伴的想法；常充满矛盾，希望寻求权威的庇护，但又不相信权威，渴望别人喜欢，但又怀疑别人；期望公平，要求付出和所得是相匹配的，别人会觉得斤斤计较；会常常提防别人陷害和利用，所以常和人保持一种安全距离，因此别人也觉得自己不容易相处；常问自己是否有做错事，因为害怕错误而被责备；一个忠诚、值得信赖、勤奋的人。
+			</text>
+			<text>
+				内向、主动、保守、忠诚；关注潜在的伤害、危险、威胁；积极想像：放大危险、灾害；质疑并反向思维；延迟是因为担心成果不安全；不会轻易相信别人，但内心深处希望得到别人欣赏和肯定；经常犹豫不决，对事情通常想的太认真，很在意配偶及伙伴的想法；常充满矛盾，希望寻求权威的庇护，但又不相信权威，渴望别人喜欢，但又怀疑别人；期望公平，要求付出和所得是相匹配的，别人会觉得斤斤计较；会常常提防别人陷害和利用，所以常和人保持一种安全距离，因此别人也觉得自己不容易相处；常问自己是否有做错事，因为害怕错误而被责备；一个忠诚、值得信赖、勤奋的人。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			8.精力浪费处：
+		</text>
+		<text>
+			8.精力浪费处：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				忠诚型人物是脚踏实地，努力工作的人，但由于老是有不安全感及焦虑困扰着自己，他们精力浪费在怕犯错，怕得罪别人，怕被责罚及对人多疑上。
+			</text>
+			<text>
+				忠诚型人物是脚踏实地，努力工作的人，但由于老是有不安全感及焦虑困扰着自己，他们精力浪费在怕犯错，怕得罪别人，怕被责罚及对人多疑上。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			9.早年认同--性格形成的可能性原因：
+		</text>
+		<text>
+			9.早年认同--性格形成的可能性原因：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				他们比较认同父亲或像父亲一样有权威的人，因为他们崇拜权威人士，被权威人士称赞及喜爱是他们最大的愿望，所以他们因忠心耿耿而被爱护，所以他们学会取悦权威而获得稳定和安全。另一种可能性是，童年受到过欺骗或者惊吓而造成的。
+			</text>
+			<text>
+				他们比较认同父亲或像父亲一样有权威的人，因为他们崇拜权威人士，被权威人士称赞及喜爱是他们最大的愿望，所以他们因忠心耿耿而被爱护，所以他们学会取悦权威而获得稳定和安全。另一种可能性是，童年受到过欺骗或者惊吓而造成的。
+			</text>
+		</text>
+	</view>
+</view>

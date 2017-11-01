@@ -1,0 +1,15 @@
+<!--index.wxml-->
+<view class="container">
+  <view class='box' bindtap='tishi'>
+      <view class='img'>
+          <image src="../images/icon.png" mode="widthFix"></image>
+      </view>
+      <view class="h2">九型人格测试</view>
+      <view class="text">
+        九型人格测试主要用于帮助你有效地掌握个人的行为习惯，测试中所回答的问题答案没有好与坏之分、没有正确与错误之别，它仅反映你自己的个性和你的世界观。
+      </view>
+      <view class="come" catchtap='come'>
+          <image src="../images/icons.png" mode='widthFix'></image>
+      </view>
+  </view>
+</view>

@@ -1,0 +1,56 @@
+/* pages/my/my.wxss */
+page{
+  background: #f2f2f2;
+}
+.container{
+  padding: 40rpx 0;
+}
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+.box{
+  background: #fff;
+  margin-top: 30rpx;
+}
+.userinfo-nickname {
+  color: #000;
+  font-size: 26rpx;
+}
+.box{
+  width:100%;
+  padding:20rpx 0;
+}
+.box .title{
+  text-align: center;
+  font-size:28rpx;
+  color:#626262;
+}
+.box .list{
+  display: flex;
+  width:100%;
+  padding:20rpx;
+  box-sizing: border-box;
+}
+.box .list .left{
+  width:80rpx;
+}
+.box .list .left image{
+  width:100%;
+}
+.box .list .right .h3{
+    font-size:28rpx;
+    line-height: 50rpx;
+}
+.box .list .right .text{
+    font-size:20rpx;
+    color:#626262;
+}

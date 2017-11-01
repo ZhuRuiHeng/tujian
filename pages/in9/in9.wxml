@@ -1,0 +1,168 @@
+<!--pages/in9/in9.wxml-->
+<view class="container">
+	<view class="type-image" style="background-color: #A1CB89;">
+		<image src="../images/9.png" style="width: 130px; height: 130px;"></image>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			1.核心价值观
+		</text>
+		<text>
+			1.核心价值观
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				我觉得自己是一个普通人，我会尽力维持和谐的生活，与他人融洽和避免冲突的需要。我相信“忍一时风平浪静，退一步海阔天空。
+			</text>
+			<text>
+				我觉得自己是一个普通人，我会尽力维持和谐的生活，与他人融洽和避免冲突的需要。我相信“忍一时风平浪静，退一步海阔天空。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			2.注意力焦点：
+		</text>
+		<text>
+			2.注意力焦点：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				我如何才能避免冲突？
+			</text>
+			<text>
+				我如何才能避免冲突？
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			3.情绪反应：
+		</text>
+		<text>
+			3.情绪反应：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				别人大声命令时会有情绪，怕羞，怕事，懒惰。
+			</text>
+			<text>
+				别人大声命令时会有情绪，怕羞，怕事，懒惰。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			4.行为习惯：
+		</text>
+		<text>
+			4.行为习惯：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				经常关注我们如何达成一致？
+			</text>
+			<text>
+				经常关注我们如何达成一致？
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			5.气质形态：
+		</text>
+		<text>
+			5.气质形态：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				平和，乐观豁达，朴实无华，面向和善，节拍较慢。
+			</text>
+			<text>
+				平和，乐观豁达，朴实无华，面向和善，节拍较慢。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			6.行为动机：
+		</text>
+		<text>
+			6.行为动机：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				渴望人人能和平共处，怕引起冲突，怕得罪别人，怕左右为难，不争名逐利，性格温顺，与世无争，爱好大自然，随和，但往往给人一种懒洋洋、没有个性、慢条斯理和满不在乎的感觉。
+			</text>
+			<text>
+				渴望人人能和平共处，怕引起冲突，怕得罪别人，怕左右为难，不争名逐利，性格温顺，与世无争，爱好大自然，随和，但往往给人一种懒洋洋、没有个性、慢条斯理和满不在乎的感觉。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			7.性格倾向：
+		</text>
+		<text>
+			7.性格倾向：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				内向、被动、乐观、随和；关注周围对其的抱怨；顺从、服务、很难说不；向往相容和熟悉，避免冲突；拙于排列事情的优先顺序；不像其他人那样关注名誉及地位；别人会觉得自己动作很慢、经常拖延而不去行动；时常因为问题烦恼但却不去解决，特别喜欢睡觉和看电视，容易耽误事情，别人会觉得其被动和优柔寡断；不喜欢命令别人，但当别人命令自己时，会反感和变得倔强；对于不同观点的分歧和争论，能看到其方方面面；是一个和平、友善、随和、包容和忍耐的人。
+			</text>
+			<text>
+				内向、被动、乐观、随和；关注周围对其的抱怨；顺从、服务、很难说不；向往相容和熟悉，避免冲突；拙于排列事情的优先顺序；不像其他人那样关注名誉及地位；别人会觉得自己动作很慢、经常拖延而不去行动；时常因为问题烦恼但却不去解决，特别喜欢睡觉和看电视，容易耽误事情，别人会觉得其被动和优柔寡断；不喜欢命令别人，但当别人命令自己时，会反感和变得倔强；对于不同观点的分歧和争论，能看到其方方面面；是一个和平、友善、随和、包容和忍耐的人。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			8.精力浪费处：
+		</text>
+		<text>
+			8.精力浪费处：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				精力浪费在配合别人，成全别人，由于每天忙着认同环境、认同别人，因此没有发展自己的个性，变成一种懒惰的心态，没有活力。
+			</text>
+			<text>
+				精力浪费在配合别人，成全别人，由于每天忙着认同环境、认同别人，因此没有发展自己的个性，变成一种懒惰的心态，没有活力。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			9.早年认同--性格形成的可能性原因：
+		</text>
+		<text>
+			9.早年认同--性格形成的可能性原因：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				通常早年是活得愉快而满足的，而且父母对之也很好，他们觉得只要乖乖的，日子就是那么恬静和愉悦，所以他们非常喜欢享受这一份和谐和无忧无虑，也就不想做任何突破的事来打扰这一份平静，故而在每一个环境中，总是认同别人，以取得和谐．美满。
+			</text>
+			<text>
+				通常早年是活得愉快而满足的，而且父母对之也很好，他们觉得只要乖乖的，日子就是那么恬静和愉悦，所以他们非常喜欢享受这一份和谐和无忧无虑，也就不想做任何突破的事来打扰这一份平静，故而在每一个环境中，总是认同别人，以取得和谐．美满。
+			</text>
+		</text>
+	</view>
+</view>

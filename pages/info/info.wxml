@@ -1,0 +1,494 @@
+<!--pages/info/info.wxml-->
+<view class="content">
+	<scroll-view enable-back-to-top="" class="scroll-view" scroll-y="" scroll-top="2111"
+	style="height: 100%;" scroll-left="0">
+		<view class="scroll-view">
+			<view style="overflow-x: hidden; overflow-y: auto;" class="scroll-view">
+				<view style="height: 100%;">
+					<text class="title">
+						<text style="display:none;">
+							九型人格的由来
+						</text>
+						<text>
+							九型人格的由来
+						</text>
+					</text>
+					<view class="content-text-topspace">
+						<text class="space">
+							<text style="display:none;">
+							</text>
+							<text>
+							</text>
+						</text>
+						<text>
+							<text style="display:none;">
+								在浩瀚无垠的宇宙空间，一个来自外太空的神秘星球，居住着一群超级生物，他们已经破解并掌握了一切有关生命的奥秘。当他们发现随着自身的繁衍，所居住的星球将无法接纳他们时，他们就决定向宇宙深处去探索适合他们居住的星球。
+							</text>
+							<text>
+								在浩瀚无垠的宇宙空间，一个来自外太空的神秘星球，居住着一群超级生物，他们已经破解并掌握了一切有关生命的奥秘。当他们发现随着自身的繁衍，所居住的星球将无法接纳他们时，他们就决定向宇宙深处去探索适合他们居住的星球。
+							</text>
+						</text>
+					</view>
+					<view class="content-text-topspace">
+						<text class="space">
+							<text style="display:none;">
+							</text>
+							<text>
+							</text>
+						</text>
+						<text>
+							<text style="display:none;">
+								这一天，他们经过漫长的探险，发现了一颗蔚蓝的星球！从飞船的天窗望去，这颗星球真是太美了！飞船船长决定派出探险分队，登陆到这个星球上去做实地考察。“先派谁去呢？”船长心里开始琢磨。正当船长拿不定主意时，船长助理提醒道：“我们出发时，总部不是给我们配备了一张九型人格图吗，何不拿出来参考一下？”船长一听说：“好主意！”于是，船长按图索骥，在他庞大的人才库中迅速地挑选出了先遣队的成员。
+							</text>
+							<text>
+								这一天，他们经过漫长的探险，发现了一颗蔚蓝的星球！从飞船的天窗望去，这颗星球真是太美了！飞船船长决定派出探险分队，登陆到这个星球上去做实地考察。“先派谁去呢？”船长心里开始琢磨。正当船长拿不定主意时，船长助理提醒道：“我们出发时，总部不是给我们配备了一张九型人格图吗，何不拿出来参考一下？”船长一听说：“好主意！”于是，船长按图索骥，在他庞大的人才库中迅速地挑选出了先遣队的成员。
+							</text>
+						</text>
+					</view>
+					<view class="content-text-topspace">
+						<text class="space">
+							<text style="display:none;">
+							</text>
+							<text>
+							</text>
+						</text>
+						<text>
+							<text style="display:none;">
+								◎8号（领袖型）：无敌勇士
+							</text>
+							<text>
+								◎8号（领袖型）：无敌勇士
+							</text>
+						</text>
+					</view>
+					<view class="content-text-topspace">
+						<text class="space">
+							<text style="display:none;">
+							</text>
+							<text>
+							</text>
+						</text>
+						<text>
+							<text style="display:none;">
+								他们都有着旺盛的精力，坚强的意志，坚忍不拔、永不言败的精神，有着喜欢挑战、愈挫愈勇的性格，所以派他们作为先遣队去探索这颗蔚蓝的星球是最合适不过的。于是一支由8号性格组成的先遣队出发了。
+							</text>
+							<text>
+								他们都有着旺盛的精力，坚强的意志，坚忍不拔、永不言败的精神，有着喜欢挑战、愈挫愈勇的性格，所以派他们作为先遣队去探索这颗蔚蓝的星球是最合适不过的。于是一支由8号性格组成的先遣队出发了。
+							</text>
+						</text>
+					</view>
+					<view class="content-text-topspace">
+						<text class="space">
+							<text style="display:none;">
+							</text>
+							<text>
+							</text>
+						</text>
+						<text>
+							<text style="display:none;">
+								到达蔚蓝的星球后不久，面对一个陌生的环境，处处都隐藏着危险，先遣队员们发挥他们性格中的优势，迅速而大胆地面对挑战开展工作，在很短时间内，一个又一个激动人心的好消息不断发往总部：这个星球有着新鲜的空气、清澈的河水、茂密的森林、飘香的水果、神奇的动物……相比原来居住星球的恶劣环境，这里不知要好多少。随着探索工作的深入，五大洲四大洋的发现，先遣队发现有太多的工作要做，而人手明显不足。所以，先遣队在不断发回好消息的同时，也急着向总部求援，希望派遣一批助手来协助完成前期探索工作。
+							</text>
+							<text>
+								到达蔚蓝的星球后不久，面对一个陌生的环境，处处都隐藏着危险，先遣队员们发挥他们性格中的优势，迅速而大胆地面对挑战开展工作，在很短时间内，一个又一个激动人心的好消息不断发往总部：这个星球有着新鲜的空气、清澈的河水、茂密的森林、飘香的水果、神奇的动物……相比原来居住星球的恶劣环境，这里不知要好多少。随着探索工作的深入，五大洲四大洋的发现，先遣队发现有太多的工作要做，而人手明显不足。所以，先遣队在不断发回好消息的同时，也急着向总部求援，希望派遣一批助手来协助完成前期探索工作。
+							</text>
+						</text>
+					</view>
+					<view class="content-text-topspace">
+						<text class="space">
+							<text style="display:none;">
+							</text>
+							<text>
+							</text>
+						</text>
+						<text>
+							<text style="display:none;">
+								总部接到先遣队的求援，船长思考派谁去协助8号探险队员。他再次拿出九型性格地图，很快就发现了最佳人选。
+							</text>
+							<text>
+								总部接到先遣队的求援，船长思考派谁去协助8号探险队员。他再次拿出九型性格地图，很快就发现了最佳人选。
+							</text>
+						</text>
+					</view>
+					<view class="content-text-topspace">
+						<text class="space">
+							<text style="display:none;">
+							</text>
+							<text>
+							</text>
+						</text>
+						<text>
+							<text style="display:none;">
+								◎2号（助人型）：最佳助手他们天生就是最佳助手和搭档，他们非常能体会别人的思想和感受，能把辅助性的工作做到尽善尽美，他们不喜欢争权夺势和计较个人的得失，他们认为去探索一个未知的星球，拯救未来生命这件工作的本身意义，就超过了他在这件事情中的得失。为把这件工作做好，他们甚至可以不惜牺牲自己的生命。所以派遣他们作为支援团队是非常恰当的。2号型的助手被派到地球后，他们迅速找准自己的位置，与8号先遣队员们在工作上配合默契，帮助8号队员解决了许多繁杂的琐事，让他们的工作效率大大提高，探索工作的进度也加快了。
+							</text>
+							<text>
+								◎2号（助人型）：最佳助手他们天生就是最佳助手和搭档，他们非常能体会别人的思想和感受，能把辅助性的工作做到尽善尽美，他们不喜欢争权夺势和计较个人的得失，他们认为去探索一个未知的星球，拯救未来生命这件工作的本身意义，就超过了他在这件事情中的得失。为把这件工作做好，他们甚至可以不惜牺牲自己的生命。所以派遣他们作为支援团队是非常恰当的。2号型的助手被派到地球后，他们迅速找准自己的位置，与8号先遣队员们在工作上配合默契，帮助8号队员解决了许多繁杂的琐事，让他们的工作效率大大提高，探索工作的进度也加快了。
+							</text>
+						</text>
+					</view>
+					<view class="content-text-topspace">
+						<text class="space">
+							<text style="display:none;">
+							</text>
+							<text>
+							</text>
+						</text>
+						<text>
+							<text style="display:none;">
+								8号那天生领导者的魄力，在2号助手的帮助下，迅速制定了开发星球资源、大规模移民的计划，而一个战略的制定需要有一大批忠实、做具体事务的士兵去贯彻和执行。于是8号又向总部提出大量征兵的请求，希望尽快建立一支星球战队，去完成开疆拓土的工作。
+							</text>
+							<text>
+								8号那天生领导者的魄力，在2号助手的帮助下，迅速制定了开发星球资源、大规模移民的计划，而一个战略的制定需要有一大批忠实、做具体事务的士兵去贯彻和执行。于是8号又向总部提出大量征兵的请求，希望尽快建立一支星球战队，去完成开疆拓土的工作。
+							</text>
+						</text>
+					</view>
+					<view class="content-text-topspace">
+						<text class="space">
+							<text style="display:none;">
+							</text>
+							<text>
+							</text>
+						</text>
+						<text>
+							<text style="display:none;">
+								总部根据先遣队探索工作的进度，非常认可8号提出的建议，要在这么短的时间内建立一支反应迅速，号令严明的部队，需要征集哪类人呢？
+							</text>
+							<text>
+								总部根据先遣队探索工作的进度，非常认可8号提出的建议，要在这么短的时间内建立一支反应迅速，号令严明的部队，需要征集哪类人呢？
+							</text>
+						</text>
+					</view>
+					<view class="content-text-topspace">
+						<text class="space">
+							<text style="display:none;">
+							</text>
+							<text>
+							</text>
+						</text>
+						<text>
+							<text style="display:none;">
+								总部根据先遣队探索工作的进度，非常认可8号提出的建议，要在这么短的时间内建立一支反应迅速，号令严明的部队，需要征集哪类人呢？
+							</text>
+							<text>
+								总部根据先遣队探索工作的进度，非常认可8号提出的建议，要在这么短的时间内建立一支反应迅速，号令严明的部队，需要征集哪类人呢？
+							</text>
+						</text>
+					</view>
+					<view class="content-text-topspace">
+						<text class="space">
+							<text style="display:none;">
+							</text>
+							<text>
+							</text>
+						</text>
+						<text>
+							<text style="display:none;">
+								◎6号（疑惑型）：忠诚战士
+							</text>
+							<text>
+								◎6号（疑惑型）：忠诚战士
+							</text>
+						</text>
+					</view>
+					<view class="content-text-topspace">
+						<text class="space">
+							<text style="display:none;">
+							</text>
+							<text>
+							</text>
+						</text>
+						<text>
+							<text style="display:none;">
+								忠诚、孝顺，服从命令，能够长时间反复做一件简单哪怕是非常枯燥的工作，非常敬业，有团队和危机意识，在压力下，反而能体现他们的能力。这些都是九型人格图中对6号性格人的描述，所以在当前形势下，迅速挑选出6号人去组建一支星球战队是当务之急。
+							</text>
+							<text>
+								忠诚、孝顺，服从命令，能够长时间反复做一件简单哪怕是非常枯燥的工作，非常敬业，有团队和危机意识，在压力下，反而能体现他们的能力。这些都是九型人格图中对6号性格人的描述，所以在当前形势下，迅速挑选出6号人去组建一支星球战队是当务之急。
+							</text>
+						</text>
+					</view>
+					<view class="content-text-topspace">
+						<text class="space">
+							<text style="display:none;">
+							</text>
+							<text>
+							</text>
+						</text>
+						<text>
+							<text style="display:none;">
+								由6号组成的星球战队被派到星球上后，果然是令行禁止，能非常好地执行上级下达的命令。但是他们身上也有性格的明显不足：自信心不足，照章办事做得很好，但要他们自己拿主意和方案时，却没有一个人愿意站出来，当战队取得了一点成绩后，很多人都容易满足而不愿进取。
+							</text>
+							<text>
+								由6号组成的星球战队被派到星球上后，果然是令行禁止，能非常好地执行上级下达的命令。但是他们身上也有性格的明显不足：自信心不足，照章办事做得很好，但要他们自己拿主意和方案时，却没有一个人愿意站出来，当战队取得了一点成绩后，很多人都容易满足而不愿进取。
+							</text>
+						</text>
+					</view>
+					<view class="content-text-topspace">
+						<text class="space">
+							<text style="display:none;">
+							</text>
+							<text>
+							</text>
+						</text>
+						<text>
+							<text style="display:none;">
+								8号发现这一情况后，立即向总部汇报，要求总部即刻派遣一支中层管理者来带领6号士兵继续保持旺盛的战斗力。
+							</text>
+							<text>
+								8号发现这一情况后，立即向总部汇报，要求总部即刻派遣一支中层管理者来带领6号士兵继续保持旺盛的战斗力。
+							</text>
+						</text>
+					</view>
+					<view class="content-text-topspace">
+						<text class="space">
+							<text style="display:none;">
+							</text>
+							<text>
+							</text>
+						</text>
+						<text>
+							<text style="display:none;">
+								船长这段时间对九型人格图进行了深入的钻研，对九型人格的精髓已经了然于胸。当8号的求援电报刚一到达，船长心里已经有了合适人选。
+							</text>
+							<text>
+								船长这段时间对九型人格图进行了深入的钻研，对九型人格的精髓已经了然于胸。当8号的求援电报刚一到达，船长心里已经有了合适人选。
+							</text>
+						</text>
+					</view>
+					<view class="content-text-topspace">
+						<text class="space">
+							<text style="display:none;">
+							</text>
+							<text>
+							</text>
+						</text>
+						<text>
+							<text style="display:none;">
+								◎3号（成就型）：指挥官他们一生的梦想都是要追求成功，希望得到别人的认可和欣赏，他们自信、目标感强，为达到目标会想尽一切办法，不达目的誓不罢休。并且他们有非常强的组织和领导能力，派他们去领导6号忠诚战士一定没错！
+							</text>
+							<text>
+								◎3号（成就型）：指挥官他们一生的梦想都是要追求成功，希望得到别人的认可和欣赏，他们自信、目标感强，为达到目标会想尽一切办法，不达目的誓不罢休。并且他们有非常强的组织和领导能力，派他们去领导6号忠诚战士一定没错！
+							</text>
+						</text>
+					</view>
+					<view class="content-text-topspace">
+						<text class="space">
+							<text style="display:none;">
+							</text>
+							<text>
+							</text>
+						</text>
+						<text>
+							<text style="display:none;">
+								3号到达后，充分发挥了他们的领导才能，带领6号忠诚战士取得了一个又一个重大胜利。但就在取得一个个成绩的同时，3号型性格中的弱点也暴露无遗。他们为了达到目标，取得胜利，有时丝毫不顾士兵的生命，正印证了古人那句“一将成名万骨枯”。所以为了减少损失和行动的盲目性，必须为3号指挥官派个助手，帮助3号加强对行动的策划和计划。那派谁呢？
+							</text>
+							<text>
+								3号到达后，充分发挥了他们的领导才能，带领6号忠诚战士取得了一个又一个重大胜利。但就在取得一个个成绩的同时，3号型性格中的弱点也暴露无遗。他们为了达到目标，取得胜利，有时丝毫不顾士兵的生命，正印证了古人那句“一将成名万骨枯”。所以为了减少损失和行动的盲目性，必须为3号指挥官派个助手，帮助3号加强对行动的策划和计划。那派谁呢？
+							</text>
+						</text>
+					</view>
+					<view class="content-text-topspace">
+						<text class="space">
+							<text style="display:none;">
+							</text>
+							<text>
+							</text>
+						</text>
+						<text>
+							<text style="display:none;">
+								◎5号（理智型）：参谋长5号在九型人格中被称为“思想者”，他们非常理性，善于筹划、精于计算，运筹帷幄、决胜千里正是他们的拿手好戏。所以，派遣5号去给3号指挥官当参谋长，可以让行动力强的3号行动更加有方向性和计划性。
+							</text>
+							<text>
+								◎5号（理智型）：参谋长5号在九型人格中被称为“思想者”，他们非常理性，善于筹划、精于计算，运筹帷幄、决胜千里正是他们的拿手好戏。所以，派遣5号去给3号指挥官当参谋长，可以让行动力强的3号行动更加有方向性和计划性。
+							</text>
+						</text>
+					</view>
+					<view class="content-text-topspace">
+						<text class="space">
+							<text style="display:none;">
+							</text>
+							<text>
+							</text>
+						</text>
+						<text>
+							<text style="display:none;">
+								5号到任后，开始和3号的合作还不错，但一段时间后，两人性格上的分歧就出现了，3号看不惯5号的慢慢吞吞，总说等5号策划好了，黄花菜都凉了。而且很多时候，3号自以为是的毛病不自觉地会暴露出来。哪怕是5号已经做好的经过了8号批准的周密方案，在执行过程中3号也常常用“将在外，军令有所不受”来做托词，还是希望按照自己的意愿办事。
+							</text>
+							<text>
+								5号到任后，开始和3号的合作还不错，但一段时间后，两人性格上的分歧就出现了，3号看不惯5号的慢慢吞吞，总说等5号策划好了，黄花菜都凉了。而且很多时候，3号自以为是的毛病不自觉地会暴露出来。哪怕是5号已经做好的经过了8号批准的周密方案，在执行过程中3号也常常用“将在外，军令有所不受”来做托词，还是希望按照自己的意愿办事。
+							</text>
+						</text>
+					</view>
+					<view class="content-text-topspace">
+						<text class="space">
+							<text style="display:none;">
+							</text>
+							<text>
+							</text>
+						</text>
+						<text>
+							<text style="display:none;">
+								8号发现了3号的表现后，立即向总部汇报，希望为这匹烈马带个嚼头，要船长派一批政委来前线督战。船长这次反应很快，对8号说，在当初派遣3号时，我就已经料到会有今天的结果，所以早为你们配备好了。
+							</text>
+							<text>
+								8号发现了3号的表现后，立即向总部汇报，希望为这匹烈马带个嚼头，要船长派一批政委来前线督战。船长这次反应很快，对8号说，在当初派遣3号时，我就已经料到会有今天的结果，所以早为你们配备好了。
+							</text>
+						</text>
+					</view>
+					<view class="content-text-topspace">
+						<text class="space">
+							<text style="display:none;">
+							</text>
+							<text>
+							</text>
+						</text>
+						<text>
+							<text style="display:none;">
+								◎1号（完美型）：政委1号型原则性非常强，凡事都讲究标准，喜欢按章办事，永远都是对事不对人，在原则性问题上决不让步，让他们去给3号当政委，真是再合适不过了。
+							</text>
+							<text>
+								◎1号（完美型）：政委1号型原则性非常强，凡事都讲究标准，喜欢按章办事，永远都是对事不对人，在原则性问题上决不让步，让他们去给3号当政委，真是再合适不过了。
+							</text>
+						</text>
+					</view>
+					<view class="content-text-topspace">
+						<text class="space">
+							<text style="display:none;">
+							</text>
+							<text>
+							</text>
+						</text>
+						<text>
+							<text style="display:none;">
+								果然，有8号型制定大的战略，2号型负责行政给养等琐事，3号型具体组织领导6号士兵，同时辅助于5号的策划，尤其是1号政委的负责，能使所有的行动基本上都能按照计划实施，确保了行动的可靠性和完整性，由8、2、3、6、5、1型组合的队伍办事的效率确实非常高，对地球的探索工作进展顺利。可是过了一段时间后，总部又发现了新的问题。原先派遣的人员在工作中配合得非常好，但人是有感情的，不能只有工作没有生活。队伍也每天总是死气沉沉，一点生气都没有，长此以往，一定会影响到士气。所以，有必要调剂一下队伍的气氛，增加一些活力。
+							</text>
+							<text>
+								果然，有8号型制定大的战略，2号型负责行政给养等琐事，3号型具体组织领导6号士兵，同时辅助于5号的策划，尤其是1号政委的负责，能使所有的行动基本上都能按照计划实施，确保了行动的可靠性和完整性，由8、2、3、6、5、1型组合的队伍办事的效率确实非常高，对地球的探索工作进展顺利。可是过了一段时间后，总部又发现了新的问题。原先派遣的人员在工作中配合得非常好，但人是有感情的，不能只有工作没有生活。队伍也每天总是死气沉沉，一点生气都没有，长此以往，一定会影响到士气。所以，有必要调剂一下队伍的气氛，增加一些活力。
+							</text>
+						</text>
+					</view>
+					<view class="content-text-topspace">
+						<text class="space">
+							<text style="display:none;">
+							</text>
+							<text>
+							</text>
+						</text>
+						<text>
+							<text style="display:none;">
+								◎7号（活跃型）：快乐天使7号型是天生的乐天派，他们总是在不断追求享乐和快乐，任何枯燥的工作在7号型眼中都有快乐的因子。他们是一群活在当下的人，从来不会为明天的事情烦恼。他们加入后，工作的各个地方一下增添了不少欢笑，他们让人们一子懂得了应该如何去生活。在同等条件下，就因为加人了7号型的乐观性格，让团队的工作效率一下提高了不少。所以，虽然7号型在做事情时非常马虎和缺乏持久性，但就是因为他们时时给人们带来快乐，大家对他们的行为都非常包容。
+							</text>
+							<text>
+								◎7号（活跃型）：快乐天使7号型是天生的乐天派，他们总是在不断追求享乐和快乐，任何枯燥的工作在7号型眼中都有快乐的因子。他们是一群活在当下的人，从来不会为明天的事情烦恼。他们加入后，工作的各个地方一下增添了不少欢笑，他们让人们一子懂得了应该如何去生活。在同等条件下，就因为加人了7号型的乐观性格，让团队的工作效率一下提高了不少。所以，虽然7号型在做事情时非常马虎和缺乏持久性，但就是因为他们时时给人们带来快乐，大家对他们的行为都非常包容。
+							</text>
+						</text>
+					</view>
+					<view class="content-text-topspace">
+						<text class="space">
+							<text style="display:none;">
+							</text>
+							<text>
+							</text>
+						</text>
+						<text>
+							<text style="display:none;">
+								随着对地球的探索工作接近尾声，人们也逐渐适应了环境，工作和生活也安逸起来，人们对7号型的价值观也越来越趋赞同，大家一时都有点玩物丧志的状态。7号型的人兴趣广泛，但很多娱乐活动都很庸俗和低级，由于7号型的兴风作浪，社会上一时物欲横流，到处充斥着低级趣味的东西。
+							</text>
+							<text>
+								随着对地球的探索工作接近尾声，人们也逐渐适应了环境，工作和生活也安逸起来，人们对7号型的价值观也越来越趋赞同，大家一时都有点玩物丧志的状态。7号型的人兴趣广泛，但很多娱乐活动都很庸俗和低级，由于7号型的兴风作浪，社会上一时物欲横流，到处充斥着低级趣味的东西。
+							</text>
+						</text>
+					</view>
+					<view class="content-text-topspace">
+						<text class="space">
+							<text style="display:none;">
+							</text>
+							<text>
+							</text>
+						</text>
+						<text>
+							<text style="display:none;">
+								为改变这种社会风气，提高人们的生活品位，总部急忙派遣了一支文艺工作者队伍。
+							</text>
+							<text>
+								为改变这种社会风气，提高人们的生活品位，总部急忙派遣了一支文艺工作者队伍。
+							</text>
+						</text>
+					</view>
+					<view class="content-text-topspace">
+						<text class="space">
+							<text style="display:none;">
+							</text>
+							<text>
+							</text>
+						</text>
+						<text>
+							<text style="display:none;">
+								◎4号（自我型）：艺术家4号型性格有着非常丰富的情感，敏锐的直觉，他们对周围事物的观察，都能够升华到艺术的高度。正是由于4号型的加入，在建设新家园的过程中才产生了建筑、雕塑、绘画、音乐、戏剧等艺术表现形式。人们通过欣赏这些艺术作品，不断提高自身的修养和道德水准，整个社会也朝着文明的方向发展。
+							</text>
+							<text>
+								◎4号（自我型）：艺术家4号型性格有着非常丰富的情感，敏锐的直觉，他们对周围事物的观察，都能够升华到艺术的高度。正是由于4号型的加入，在建设新家园的过程中才产生了建筑、雕塑、绘画、音乐、戏剧等艺术表现形式。人们通过欣赏这些艺术作品，不断提高自身的修养和道德水准，整个社会也朝着文明的方向发展。
+							</text>
+						</text>
+					</view>
+					<view class="content-text-topspace">
+						<text class="space">
+							<text style="display:none;">
+							</text>
+							<text>
+							</text>
+						</text>
+						<text>
+							<text style="display:none;">
+								开始大家在这个星球上和平相处，就像一家人一样。但是随着星球上各种性格人的增加，大家在一起，难免会产生分歧和矛盾，逐渐这个星球上的人类开始有了不同的国家、不同的语言、不同的宗教信仰，于是就有了纷争，有了战争。为了让这个星球上生活的人类不要因为自身的原因而自取灭亡，于是伟大的造物主最后把9号型的人送到了这个星球。
+							</text>
+							<text>
+								开始大家在这个星球上和平相处，就像一家人一样。但是随着星球上各种性格人的增加，大家在一起，难免会产生分歧和矛盾，逐渐这个星球上的人类开始有了不同的国家、不同的语言、不同的宗教信仰，于是就有了纷争，有了战争。为了让这个星球上生活的人类不要因为自身的原因而自取灭亡，于是伟大的造物主最后把9号型的人送到了这个星球。
+							</text>
+						</text>
+					</view>
+					<view class="content-text-topspace">
+						<text class="space">
+							<text style="display:none;">
+							</text>
+							<text>
+							</text>
+						</text>
+						<text>
+							<text style="display:none;">
+								◎9号（平和型）：和平使者9号型性格人的到来就是要避免冲突和争执的，他们所做的一切都是为了大家能友好和谐地相处在一起。正是由于他们的影响，这个星球上各种性格的人才能友好和睦地生活。
+							</text>
+							<text>
+								◎9号（平和型）：和平使者9号型性格人的到来就是要避免冲突和争执的，他们所做的一切都是为了大家能友好和谐地相处在一起。正是由于他们的影响，这个星球上各种性格的人才能友好和睦地生活。
+							</text>
+						</text>
+					</view>
+					<view class="content-text-topspace">
+						<text class="space">
+							<text style="display:none;">
+							</text>
+							<text>
+							</text>
+						</text>
+						<text>
+							<text style="display:none;">
+								当九种人同时在这个星球上共存时，一个最完整、没有缺陷的团体诞生了，这九种人共同合作，互相制衡，堪称真正的梦幻组合。这个星球，就叫做“地球”。九种性格的人们在地球上幸福地生活着，他们不断繁衍，生生不息。这就是“九型人格”的由来。
+							</text>
+							<text>
+								当九种人同时在这个星球上共存时，一个最完整、没有缺陷的团体诞生了，这九种人共同合作，互相制衡，堪称真正的梦幻组合。这个星球，就叫做“地球”。九种性格的人们在地球上幸福地生活着，他们不断繁衍，生生不息。这就是“九型人格”的由来。
+							</text>
+						</text>
+					</view>
+					<view class="content-text-qoute">
+						<text>
+							<text style="display:none;">
+								——摘自天祺《解密九型人格》
+							</text>
+							<text>
+								——摘自天祺《解密九型人格》
+							</text>
+						</text>
+					</view>
+				</view>
+			</view>
+		</view>
+	</scroll-view>
+</view>

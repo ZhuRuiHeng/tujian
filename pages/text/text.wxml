@@ -1,0 +1,86 @@
+<!--pages/text/text.wxml-->
+<view class="container">
+	<text class="sub_title">
+			一、测试前
+	</text>
+	<view class="content">
+			<text>
+				<text>
+					1.此份测评问卷是基于一个名为九型人格(Enneagram)性格指标设计而成，主要用于帮助你有效地掌握你个人的行为习惯，它包含了144道2选1的题目。
+				</text>
+			</text>
+		</view>
+		<view class="content-item">
+	
+			<text>
+				<text>
+					2.	此份问卷将有助于你更好地了解自身的优势和弱点，并知道在何种情形下你的行动将更为有效。同时，您还可以通过此问卷知道他人是如何看待他们自己的，以及相互间又是如何相处影响的。
+				</text>
+			</text>
+		</view>
+		<view class="content-item">
+				<text>
+						3.在此测试中所回答的答案没有正确与错误之分，它仅是反映你自己的个性和你的世界观。
+				</text>
+		</view>
+		<view class="content-item">
+			<text>
+				<text>
+					4.	每一道题都包含了2种状况可供选择，请仔细阅读，并依据你平时的一些行为习惯选择其中一种状况，在答题时，可能会遇到2种状况都不适用于您，或2种状况都适用于您，无论哪种情况，请选择其中您最倾向的答案。（即使您对2种状况都不同意）。
+				</text>
+			</text>
+		</view>
+		<view class="content-item" style='text-align:left;width:100%;'>
+         <text>
+				    <text >	5.尽量在45分钟内做完。</text>
+        </text>
+		</view>
+	<text class="sub_title">
+			二、测试时
+	</text>
+	<view class="content">
+		<view class="content-item">
+			
+				<text>
+					1.	测试期间，没有「重新开始」的功能，建议选择一个安静的环境专心完成测试。
+				</text>
+		</view>
+		<view class="content-item">
+			<text>
+				<text>
+						2.测试期间，若遇到突发情况临时/意外退出测试，测试图鉴将为您自动保存记录，便于下次继续测试。
+				</text>
+			</text>
+		</view>
+	</view>
+	<text class="sub_title">
+			三、测试后
+	</text>
+	<view class="content">
+		<view class="content-item">
+			<text>
+					1.测试结果分别提供以直方图、饼图、雷达图三种表现形式呈现。
+			</text>
+		</view>
+		<view class="content-item">
+			<text>
+						2.并为您总结出核心性格类型（得分最高），和主要性格类型（得分前三名）。
+				</text>
+		</view>
+		<view class="content-item">
+			<text>
+					3.	提供九种性格类型的分析结果。
+				</text>
+		</view>
+	</view>
+  <view class='left'>
+      <checkbox-group class="checkbox-lable">
+        <label>
+          <checkbox value="下次不再提醒"></checkbox>下次不再提醒
+        </label>
+      </checkbox-group>
+  </view>
+	
+	<button class="btn-area" type="primary">	开始测试</button>
+ </view> 
+

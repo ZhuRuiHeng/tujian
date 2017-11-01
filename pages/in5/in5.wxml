@@ -1,0 +1,169 @@
+<!--pages/in5/in5.wxml-->
+<view class="container">
+	<view class="type-image" style="background-color: #8FCDD8;">
+		<image src="../images/5.png" style="width: 130px; height: 130px;">
+		</image>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			1.核心价值观
+		</text>
+		<text>
+			1.核心价值观
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				喜欢思考、追求知识、要了解这个充满疑惑的世界；有了知识，我才不会焦虑，才敢行动；渴望全知。
+			</text>
+			<text>
+				喜欢思考、追求知识、要了解这个充满疑惑的世界；有了知识，我才不会焦虑，才敢行动；渴望全知。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			2.注意力焦点：
+		</text>
+		<text>
+			2.注意力焦点：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				我如何才能获得更多数据和知识？
+			</text>
+			<text>
+				我如何才能获得更多数据和知识？
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			3.情绪反应：
+		</text>
+		<text>
+			3.情绪反应：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				自己看书思考受到干扰时会有情绪，轻视，贪求。
+			</text>
+			<text>
+				自己看书思考受到干扰时会有情绪，轻视，贪求。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			4.行为习惯：
+		</text>
+		<text>
+			4.行为习惯：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				经常关注我们需要哪些数据才客观？
+			</text>
+			<text>
+				经常关注我们需要哪些数据才客观？
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			5.气质形态：
+		</text>
+		<text>
+			5.气质形态：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				冷静、木讷和不拘言笑，喜怒不形于色，深沉而有书生气。
+			</text>
+			<text>
+				冷静、木讷和不拘言笑，喜怒不形于色，深沉而有书生气。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			6.行为动机：
+		</text>
+		<text>
+			6.行为动机：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				渴望比人知道的多，懂得快，喜欢运用自己的智慧和理论去驾驭他人，他们冷静，机智，分析力强，好学不倦，善于思考，有理性地去处理问题并将情感控制。
+			</text>
+			<text>
+				渴望比人知道的多，懂得快，喜欢运用自己的智慧和理论去驾驭他人，他们冷静，机智，分析力强，好学不倦，善于思考，有理性地去处理问题并将情感控制。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			7.性格倾向：
+		</text>
+		<text>
+			7.性格倾向：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				内向，被动，自我，喜欢思考；关注探究，思考代替行动；与感觉相分离，讨厌情绪激动；自我满足和简单化；贪求或积攒时间、空间、知识；不擅长对他人说好听的话；喜欢别人扮演自己的学问和知识；很难表达自己心中的感受；不喜欢娱乐活动，在人际关系上显得比较木讷和保持理性的状态；寻求独自感觉，不喜欢自己的空间受到骚扰；喜欢自己解决问题或制定计划并执行一项计划；不喜欢过度计划的生活和每周一次的例会；是一个理解力强、重分析、好奇心强、有洞察力的人。
+			</text>
+			<text>
+				内向，被动，自我，喜欢思考；关注探究，思考代替行动；与感觉相分离，讨厌情绪激动；自我满足和简单化；贪求或积攒时间、空间、知识；不擅长对他人说好听的话；喜欢别人扮演自己的学问和知识；很难表达自己心中的感受；不喜欢娱乐活动，在人际关系上显得比较木讷和保持理性的状态；寻求独自感觉，不喜欢自己的空间受到骚扰；喜欢自己解决问题或制定计划并执行一项计划；不喜欢过度计划的生活和每周一次的例会；是一个理解力强、重分析、好奇心强、有洞察力的人。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			8.精力浪费处：
+		</text>
+		<text>
+			8.精力浪费处：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				他们将自己投入思考，拙于行动，所以工程浩大地收集分析，到头来，一切束之高阁，不付出实际行动，变成只会自己做文章自己看，对人类的文明没有贡献，所有的智慧结晶只跟着自己带入棺材里，变成完全的浪费，可惜。
+			</text>
+			<text>
+				他们将自己投入思考，拙于行动，所以工程浩大地收集分析，到头来，一切束之高阁，不付出实际行动，变成只会自己做文章自己看，对人类的文明没有贡献，所有的智慧结晶只跟着自己带入棺材里，变成完全的浪费，可惜。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			9.早年认同--性格形成的可能性原因：
+		</text>
+		<text>
+			9.早年认同--性格形成的可能性原因：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				早年就没有从父母或长辈处得到稳定的感情，他们希望得到值得信任的关爱及安全感，但得不到，长期下来，失望之余，他们的心理开始害怕，为了求生存，他们研究如何跟环境妥协，所以他们要收集资料。碰到困难会说：我有智慧。逃避空虚，守住知识，思考重于行动，是伟大的观望者和收集资料者，像吸尘器一样，有多少资料就收集多少。怕自己知道得不够多，不敢公开发表自己的想法，避免自己有贫乏、空的感觉，有很多资料但不愿拿出来，自我防卫是要分门别类，把每件事分类，分得愈细，就愈感充实。在广大的世界面前无法与世界在一起，十分畏缩，到末了只有孤单，和人有很大的距离，在团体活动中习惯坐在门口，方便于逃离。另一模式的【分门别类】是客观地收集资料，分析每件事情，把自己感兴趣的事物变成一门学问，如此做便无意间把事件从情境中抽离出来，失去了对整体的了解。
+			</text>
+			<text>
+				早年就没有从父母或长辈处得到稳定的感情，他们希望得到值得信任的关爱及安全感，但得不到，长期下来，失望之余，他们的心理开始害怕，为了求生存，他们研究如何跟环境妥协，所以他们要收集资料。碰到困难会说：我有智慧。逃避空虚，守住知识，思考重于行动，是伟大的观望者和收集资料者，像吸尘器一样，有多少资料就收集多少。怕自己知道得不够多，不敢公开发表自己的想法，避免自己有贫乏、空的感觉，有很多资料但不愿拿出来，自我防卫是要分门别类，把每件事分类，分得愈细，就愈感充实。在广大的世界面前无法与世界在一起，十分畏缩，到末了只有孤单，和人有很大的距离，在团体活动中习惯坐在门口，方便于逃离。另一模式的【分门别类】是客观地收集资料，分析每件事情，把自己感兴趣的事物变成一门学问，如此做便无意间把事件从情境中抽离出来，失去了对整体的了解。
+			</text>
+		</text>
+	</view>
+</view>

@@ -1,0 +1,25 @@
+/* pages/text/text.wxss */
+page{
+  font-size:24rpx;
+  padding:20rpx;
+}
+.content-item text{
+  display: inline-block;
+}
+.sub_title{
+  text-align: left;
+  display: block;
+  width:100%;
+}
+.container{
+  padding:0;
+}
+.btn-area{
+    width: 80%;
+    font-size: 28rpx;
+}
+.left{
+  text-align: left;
+  display: block;
+  width:100%;
+}

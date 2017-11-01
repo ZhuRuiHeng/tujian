@@ -1,0 +1,168 @@
+<!--pages/in2/in2.wxml-->
+<view class="container">
+	<view class="type-image" style="background-color: #EEB6CF;">
+		<image src="../images/2.png" style="width: 130px; height: 130px;"></image>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			1.核心价值观
+		</text>
+		<text>
+			1.核心价值观
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				我的天职是帮助他人。满足他人需要，助人成功，不断地付出。
+			</text>
+			<text>
+				我的天职是帮助他人。满足他人需要，助人成功，不断地付出。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			2.注意力焦点：
+		</text>
+		<text>
+			2.注意力焦点：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				我被他人需要么？别人有什么需要我帮忙的吗？
+			</text>
+			<text>
+				我被他人需要么？别人有什么需要我帮忙的吗？
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			3.情绪反应：
+		</text>
+		<text>
+			3.情绪反应：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				他人漠视自己的帮助时会有情绪，爱，骄傲。
+			</text>
+			<text>
+				他人漠视自己的帮助时会有情绪，爱，骄傲。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			4.行为习惯：
+		</text>
+		<text>
+			4.行为习惯：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				经常关注我可以怎样帮助到别人？
+			</text>
+			<text>
+				经常关注我可以怎样帮助到别人？
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			5.气质形态：
+		</text>
+		<text>
+			5.气质形态：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				笑容满面，和蔼可亲，热情可爱，天真烂漫，永远有一张长不大的孩子脸。
+			</text>
+			<text>
+				笑容满面，和蔼可亲，热情可爱，天真烂漫，永远有一张长不大的孩子脸。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			6.行为动机：
+		</text>
+		<text>
+			6.行为动机：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				渴望被爱，受人感激和认同，善解人意，有同情心。
+			</text>
+			<text>
+				渴望被爱，受人感激和认同，善解人意，有同情心。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			7.性格倾向：
+		</text>
+		<text>
+			7.性格倾向：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				外向、主动、感情丰富；关注去满足重要的其他人；乐于付出，努力满足他人的需要；想成为他人不可缺少的；压抑或疏忽自己的感受；有时会有强烈的寂寞感；不直接表达自己的感受；缺乏自主和想法；很希望被他人接受、并获得他人的认同、尊重、爱护及钦佩；喜欢朋友并乐于倾听他们的事情；对人热情、友善、有爱心、有耐心；借着对别人的付出来表现自己；重视人际关系；不会直接向某人表达自己的不满情绪，但可能会向其他人抱怨；会掩饰或不触碰自己的焦虑；很难拒绝有求于自己的人，即使拨不出时间，也会牺牲自己成全他人；是一个关怀、乐于助人、慷慨的人。
+			</text>
+			<text>
+				外向、主动、感情丰富；关注去满足重要的其他人；乐于付出，努力满足他人的需要；想成为他人不可缺少的；压抑或疏忽自己的感受；有时会有强烈的寂寞感；不直接表达自己的感受；缺乏自主和想法；很希望被他人接受、并获得他人的认同、尊重、爱护及钦佩；喜欢朋友并乐于倾听他们的事情；对人热情、友善、有爱心、有耐心；借着对别人的付出来表现自己；重视人际关系；不会直接向某人表达自己的不满情绪，但可能会向其他人抱怨；会掩饰或不触碰自己的焦虑；很难拒绝有求于自己的人，即使拨不出时间，也会牺牲自己成全他人；是一个关怀、乐于助人、慷慨的人。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			8.精力浪费处：
+		</text>
+		<text>
+			8.精力浪费处：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				全爱型的人由于太喜欢投入生活，太关心社会，反而把日常生活中应尽的义务忘记了，尤其对自己的家庭，总是忘了付出。由于全爱型的人是情感型的，所以平平淡淡、不够刺激的家庭生活会让他们忽视或忘记，那么家庭成员不免就有埋怨产生。全爱型的人在服务的兴奋中，常忘了自己的疲劳，所以全爱型的人不在乎时间为别人付出，可能有一天会忽然发现自己身心俱疲，累垮了。
+			</text>
+			<text>
+				全爱型的人由于太喜欢投入生活，太关心社会，反而把日常生活中应尽的义务忘记了，尤其对自己的家庭，总是忘了付出。由于全爱型的人是情感型的，所以平平淡淡、不够刺激的家庭生活会让他们忽视或忘记，那么家庭成员不免就有埋怨产生。全爱型的人在服务的兴奋中，常忘了自己的疲劳，所以全爱型的人不在乎时间为别人付出，可能有一天会忽然发现自己身心俱疲，累垮了。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			9.早年认同--性格形成的可能性原因：
+		</text>
+		<text>
+			9.早年认同--性格形成的可能性原因：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				全爱型的人小时候就经验到：如果很乖巧，很讨人喜欢，就会被长辈或周围的人注意。所以他们就发展出“要想得到爱是必须相对地付出代价”的想法，这就是有条件爱的产生。
+			</text>
+			<text>
+				全爱型的人小时候就经验到：如果很乖巧，很讨人喜欢，就会被长辈或周围的人注意。所以他们就发展出“要想得到爱是必须相对地付出代价”的想法，这就是有条件爱的产生。
+			</text>
+		</text>
+	</view>
+</view>

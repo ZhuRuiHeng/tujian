@@ -1,0 +1,168 @@
+<!--pages/in1/in1.wxml-->
+<view class="container">
+	<view class="type-image" style="background-color: #DBDDDC;">
+		<image src="../images/1.png" style="width: 130px; height: 130px;"></image>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			1.核心价值观
+		</text>
+		<text>
+			1.核心价值观
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				希望每件事都做得最完美。关注对错，做事情守规矩，有原则
+			</text>
+			<text>
+				希望每件事都做得最完美。关注对错，做事情守规矩，有原则
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			2.注意力焦点：
+		</text>
+		<text>
+			2.注意力焦点：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				我如何才能避免出错？
+			</text>
+			<text>
+				我如何才能避免出错？
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			3.情绪反应：
+		</text>
+		<text>
+			3.情绪反应：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				当事情一错再错时会有情绪，埋怨，自责。
+			</text>
+			<text>
+				当事情一错再错时会有情绪，埋怨，自责。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			4.行为习惯：
+		</text>
+		<text>
+			4.行为习惯：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				经常关注哪出错了，哪里是否符合标准和要求？
+			</text>
+			<text>
+				经常关注哪出错了，哪里是否符合标准和要求？
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			5.气质形态：
+		</text>
+		<text>
+			5.气质形态：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				整齐端正，腰板直，目光如炬，严肃拘谨，衣着整洁，喜欢穿同样款式的衣服和每天的装束都大同小异。
+			</text>
+			<text>
+				整齐端正，腰板直，目光如炬，严肃拘谨，衣着整洁，喜欢穿同样款式的衣服和每天的装束都大同小异。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			6.行为动机：
+		</text>
+		<text>
+			6.行为动机：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				做事力求完美 ，有原则 、有标准 、理性正直，时常压抑自己人性中不宣的一面，怨而不怒。
+			</text>
+			<text>
+				做事力求完美 ，有原则 、有标准 、理性正直，时常压抑自己人性中不宣的一面，怨而不怒。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			7.性格倾向：
+		</text>
+		<text>
+			7.性格倾向：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				内向、被动、批判；关注错误，纠正错误、持续监测，喜欢每件事都井井有条，顺序编排；急于把事情办好，努力完美；有理性、独立、勤奋工作有责任、成熟、有目标、且看中效率；对自己和他人都很喜欢批评、没耐性、吹毛求疵；先工作，后享乐；压抑冲动和渴望；过度刚性；将高尚作为自己的报酬；嘴边常挂着『应该怎样做』这句话；一向坚持自己的原则，很难容忍其他不同意见；个性严谨，严格没有笑容，不拘言笑；很少顾及家人，喜欢鸡蛋里挑骨头，常埋怨和生气他人做事不够好；是一个合理、实际、脚踏实地的人。
+			</text>
+			<text>
+				内向、被动、批判；关注错误，纠正错误、持续监测，喜欢每件事都井井有条，顺序编排；急于把事情办好，努力完美；有理性、独立、勤奋工作有责任、成熟、有目标、且看中效率；对自己和他人都很喜欢批评、没耐性、吹毛求疵；先工作，后享乐；压抑冲动和渴望；过度刚性；将高尚作为自己的报酬；嘴边常挂着『应该怎样做』这句话；一向坚持自己的原则，很难容忍其他不同意见；个性严谨，严格没有笑容，不拘言笑；很少顾及家人，喜欢鸡蛋里挑骨头，常埋怨和生气他人做事不够好；是一个合理、实际、脚踏实地的人。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			8.精力浪费处：
+		</text>
+		<text>
+			8.精力浪费处：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				大小事件都不敢委托他人，事必躬亲是完美型的人物最浪费精力的地方，另外，做事细心，太注意小节，也是将精力消耗而无法有大建设、大进展。
+			</text>
+			<text>
+				大小事件都不敢委托他人，事必躬亲是完美型的人物最浪费精力的地方，另外，做事细心，太注意小节，也是将精力消耗而无法有大建设、大进展。
+			</text>
+		</text>
+	</view>
+	<text class="sub-title">
+		<text style="display:none;">
+			9.早年认同--性格形成的可能性原因：
+		</text>
+		<text>
+			9.早年认同--性格形成的可能性原因：
+		</text>
+	</text>
+	<view class="content">
+		<text class="content-item">
+			<text style="display:none;">
+				也许有个较严厉或自我要求很高的长辈，很善指导和批评。由于从小得不到别人的鼓励和赞美，所以在极度渴求下，转而要求自己要做得尽善尽美，由于有要求完美的心，因此时时刻刻自我反省，反省的结果发觉自己不够努力，又会苛责自己，让自己的良心受谴责，因此活得好累、好辛苦，此时此刻如果又看到别人舒服、懒散、自由自在，不由得会恨从心上生，懊恼、沮丧又怨恨。
+			</text>
+			<text>
+				也许有个较严厉或自我要求很高的长辈，很善指导和批评。由于从小得不到别人的鼓励和赞美，所以在极度渴求下，转而要求自己要做得尽善尽美，由于有要求完美的心，因此时时刻刻自我反省，反省的结果发觉自己不够努力，又会苛责自己，让自己的良心受谴责，因此活得好累、好辛苦，此时此刻如果又看到别人舒服、懒散、自由自在，不由得会恨从心上生，懊恼、沮丧又怨恨。
+			</text>
+		</text>
+	</view>
+</view>

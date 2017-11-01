@@ -1,0 +1,4 @@
+/* pages/inform/inform.wxss */
+.list{
+  width:100%;
+}
