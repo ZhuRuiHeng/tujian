@@ -73,14 +73,14 @@
 				</text>
 		</view>
 	</view>
-  <view class='left'>
+  <!-- <view class='left'>
       <checkbox-group class="checkbox-lable">
         <label>
           <checkbox value="下次不再提醒"></checkbox>下次不再提醒
         </label>
       </checkbox-group>
-  </view>
+  </view> -->
 	
-	<button class="btn-area" type="primary">	开始测试</button>
+	<button class="btn-area" type="primary" bindtap='star'>	开始测试</button>
  </view> 
 

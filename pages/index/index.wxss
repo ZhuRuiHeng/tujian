@@ -26,7 +26,7 @@ page{
   width: 80%;
   margin: 0 auto;
   background: #fff;
-  padding:30rpx 20rpx;
+  padding:40rpx 20rpx;
 }
 .h2{
   font-weight: bold;

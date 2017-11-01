@@ -2,7 +2,7 @@
 <view class="container">
   <view class='box' bindtap='tishi'>
       <view class='img'>
-          <image src="../images/icon.png" mode="widthFix"></image>
+          <image src="../images/logo.png" mode="widthFix"></image>
       </view>
       <view class="h2">九型人格测试</view>
       <view class="text">

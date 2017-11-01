@@ -1,0 +1,7 @@
+ <!-- <template name="column">  -->
+    <view class="container">
+        <canvas canvas-id="columnCanvas" class="canvas" bindtouchstart="touchHandler"></canvas>
+        <canvas canvas-id="radarCanvas" class="canvas" bindtouchstart="touchHandler"></canvas>
+        <canvas canvas-id="pieCanvas" class="canvas" style="height:300px" bindtouchstart="touchHandler"></canvas>
+    </view>
+ <!-- </template>  -->

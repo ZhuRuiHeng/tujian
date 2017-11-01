@@ -13,11 +13,21 @@ page{
 .flex .color{
   color: #000;
   height: 50%;
-  line-height: 1000%;
+  position: relative;
 }
 .flex .color:nth-child(odd){
     background: #cd5c54;
 }
 .flex .color:nth-child(even){
   background:#a8c990;
+}
+.flex .color view{
+  padding:36% 0;
+  transform:translateY(-50%,-50%);
+}
+.formSubmit button{
+  background: #1aad19;
+  color:#fff;
+  font-size: 26rpx;
+  margin: 20rpx auto;
 }

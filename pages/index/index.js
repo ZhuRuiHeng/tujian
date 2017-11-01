@@ -1,13 +1,64 @@
 //index.js
 //获取应用实例
+var common = require('../../common.js');
 const app = getApp()
+var sign = wx.getStorageSync("sign");
 
 Page({
   data: {
     motto: 'Hello World',
     userInfo: {},
     hasUserInfo: false,
-    canIUse: wx.canIUse('button.open-type.getUserInfo')
+    canIUse: wx.canIUse('button.open-type.getUserInfo'),
+    typeList: [
+      {
+        title: '完美型',
+        icon: "1",
+        color: "#dbdddc"
+      },
+      {
+        title: '助人型',
+        icon: "2",
+        color: "#e5b8cd"
+      },
+      {
+        title: '成就型',
+        icon: "3",
+        color: "#f0e275"
+      },
+      {
+        title: '自我型',
+        icon: "4",
+        color: "#cd5c54"
+      },
+      {
+        title: '理智型',
+        icon: "5",
+        color: "#9ecad5"
+      },
+      {
+        title: '疑惑型',
+        icon: "6",
+        color: "#bfa072"
+      },
+      {
+        title: '活跃型',
+        icon: "7",
+        color: "#e4ba80"
+      }
+      ,
+      {
+        title: '领袖型',
+        icon: "8",
+        color: "#c4a7c5"
+      }
+      ,
+      {
+        title: '和平型',
+        icon: "9",
+        color: "#a8c990"
+      }
+    ]
   },
   //事件处理函数
   bindViewTap: function() {
@@ -16,6 +67,16 @@ Page({
     })
   },
   onLoad: function () {
+    var that = this;
+    //回调
+    common.getSign(function () {
+      var sign = wx.getStorageSync('sign');
+      // console.log('commonsign:', sign);
+      that.setData({
+        sign: sign
+      })
+    })
+    wx.setStorageSync('typeList', that.data.typeList); //typeList
     if (app.globalData.userInfo) {
       this.setData({
         userInfo: app.globalData.userInfo,

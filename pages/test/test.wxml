@@ -1,7 +1,14 @@
 <!--pages/test/test.wxml-->
 <view class='container'>
     <view class='flex'>
-        <view class='color'>什么什么什么</view>
-        <view class='color'>什么什么什么什么什么什么</view>
+        <view class='color' wx:for="{{news}}" bindtap="next">
+            <view>{{item}}</view>
+        </view>
+    </view>
+    <!--  -->
+    <view wx:if="{{finish}}">
+        <form report-submit="true"  bindsubmit="formSubmit"  class="formSubmit">
+            <button class="submit" formType="submit">提交答案</button>
+        </form>
     </view>
 </view>

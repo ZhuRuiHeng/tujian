@@ -16,6 +16,7 @@ page{
 }
 .btn-area{
     width: 80%;
+    margin: 40rpx auto;
     font-size: 28rpx;
 }
 .left{

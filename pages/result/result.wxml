@@ -1,29 +1,29 @@
 <!--pages/result/result.wxml-->
+<include src="../charte/column/column.wxml"/>
+<include src="../charte/radar/radar.wxml"/>
+<!--引入模板  -->
 <view class='container'>
     <view class='chart'>
-        <view bindtap="gotoPage" data-page="line" class="mt20 list-item">Line</view>
-        <view bindtap="gotoPage" data-page="scrollline" class="mt20 list-item">ScrollLine</view>
-        <view bindtap="gotoPage" data-page="column" class="list-item">Column</view>
-        <view bindtap="gotoPage" data-page="pie" class="list-item">Pie</view>
-        <view bindtap="gotoPage" data-page="ring" class="list-item">Ring</view>
-        <view bindtap="gotoPage" data-page="area" class="list-item">Area</view>
-        <view bindtap="gotoPage" data-page="radar" class="list-item">Radar</view>
-    </view>
+        <!-- <canvas canvas-id="columnCanvas" class="canvas"  bindtouchstart="touchHandler"></canvas>
+        <canvas canvas-id="pieCanvas" class="canvas"  style="height:300px" bindtouchstart="touchHandler"></canvas>
+        <canvas canvas-id="radarCanvas" class="canvas"  bindtouchstart="touchHandler"></canvas> -->
+        <canvas wx:for="{{tab}}"  class="canvas {{item.active?'active':'hide'}}" canvas-id="{{item.id}}" 
+              data-index="{{item.icon}}" style="height:300px" data-active="{{item.active}}" bindtouchstart="{{item.tap}}"> 
+        </canvas>
+    </view> 
     <view class='tab'>
         <view wx:for="{{tab}}"  class="{{item.active?'active':''}}"
-        data-index="{{item.icon}}" 
-              data-active="{{item.active}}" bindetap="keyword"
-              > 
+              data-index="{{item.icon}}"  data-active="{{item.active}}" bindtap="keyword"> 
               {{item.title}}
         </view>
     </view>
     <view class="content">
         <view class='left'>
-            <view class='top'>助人</view>
+            <view class='top'>{{leixing}}</view>
             <view class='little'>核心人格</view>
         </view>
         <view class='right'>
-            <view class='top'>助人 成就 领袖</view>
+            <view class='top'><text wx:for="{{arr}}">{{item.title}}</text>  </view>
             <view class='little'>主要人格</view>
         </view>
     </view>

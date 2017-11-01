@@ -42,6 +42,7 @@ page{
 }
 .box .list .left{
   width:80rpx;
+  margin-right:20rpx;
 }
 .box .list .left image{
   width:100%;

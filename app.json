@@ -1,5 +1,6 @@
 {
   "pages":[
+    "pages/star/star",
     "pages/index/index",
     "pages/logs/logs",
     "pages/my/my",
@@ -23,7 +24,8 @@
     "pages/charts/column/column",
     "pages/charts/pie/pie",
     "pages/charts/ring/ring",
-    "pages/charts/area/area"
+    "pages/charts/area/area",
+    "pages/charts/demo/demo"
   ],
   "window":{
     "backgroundTextStyle":"light",
